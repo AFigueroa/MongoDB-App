@@ -1,0 +1,15 @@
+{
+  "name": "mongodb-app",
+  "version": "1.0.0",
+  "description": "Simple Node.js app to read movie data from a local MongoDB",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "seed": "node seed.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongodb": "^6.3.0",
+    "mongoose": "^8.0.0"
+  }
+}

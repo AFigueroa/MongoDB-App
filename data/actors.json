@@ -1,0 +1,20 @@
+[
+  {
+    "_id": { "$oid": "64f1b2b2b2b2b2b2b2b2b201" },
+    "name": "Leonardo DiCaprio",
+    "birth_year": 1974,
+    "nationality": "American",
+    "movies": [
+      { "movie_id": { "$oid": "64f1a1a1a1a1a1a1a1a1a101" }, "role": "Dom Cobb" }
+    ]
+  },
+  {
+    "_id": { "$oid": "64f1b2b2b2b2b2b2b2b2b202" },
+    "name": "Keanu Reeves",
+    "birth_year": 1964,
+    "nationality": "Canadian",
+    "movies": [
+      { "movie_id": { "$oid": "64f1a1a1a1a1a1a1a1a1a102" }, "role": "Neo" }
+    ]
+  }
+]

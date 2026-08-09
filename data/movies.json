@@ -1,0 +1,22 @@
+[
+  {
+    "_id": { "$oid": "64f1a1a1a1a1a1a1a1a1a101" },
+    "title": "Inception",
+    "year": 2010,
+    "genres": ["Action", "Sci-Fi", "Thriller"],
+    "director": "Christopher Nolan",
+    "cast": ["Leonardo DiCaprio", "Joseph Gordon-Levitt", "Elliot Page"],
+    "runtime": 148,
+    "rating": 8.8
+  },
+  {
+    "_id": { "$oid": "64f1a1a1a1a1a1a1a1a1a102" },
+    "title": "The Matrix",
+    "year": 1999,
+    "genres": ["Action", "Sci-Fi"],
+    "director": "The Wachowskis",
+    "cast": ["Keanu Reeves", "Laurence Fishburne", "Carrie-Anne Moss"],
+    "runtime": 136,
+    "rating": 8.7
+  }
+]

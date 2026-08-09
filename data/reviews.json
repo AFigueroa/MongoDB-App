@@ -1,0 +1,18 @@
+[
+  {
+    "_id": { "$oid": "64f1c3c3c3c3c3c3c3c3c301" },
+    "movie_id": { "$oid": "64f1a1a1a1a1a1a1a1a1a101" },
+    "user": "john_doe",
+    "rating": 9,
+    "comment": "Mind-bending and visually stunning!",
+    "date": { "$date": "2023-08-01T00:00:00Z" }
+  },
+  {
+    "_id": { "$oid": "64f1c3c3c3c3c3c3c3c3c302" },
+    "movie_id": { "$oid": "64f1a1a1a1a1a1a1a1a1a102" },
+    "user": "jane_smith",
+    "rating": 10,
+    "comment": "A revolutionary sci-fi masterpiece.",
+    "date": { "$date": "2023-08-02T00:00:00Z" }
+  }
+]
