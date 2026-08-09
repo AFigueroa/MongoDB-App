@@ -5,6 +5,7 @@ const app = express();
 connectDB();
 
 app.use(express.json());
+app.use(express.static('public'));
 
 app.use('/api/movies', require('./routes/movieRoutes'));
 app.use('/api/reviews', require('./routes/reviewRoutes'));
